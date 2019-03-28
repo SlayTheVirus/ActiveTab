@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "ActiveTab",
+    "version": "1",
+	"permissions": [
+    "activeTab"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+    "description": "Keep all opened tabs active",
+    "icons": {
+        "128": "icon128.png",
+        "32": "icon32.png",
+        "48": "icon48.png"
+    }
+}
