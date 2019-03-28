@@ -10,9 +10,4 @@
     "persistent": true
   },
     "description": "Keep all opened tabs active",
-    "icons": {
-        "128": "icon128.png",
-        "32": "icon32.png",
-        "48": "icon48.png"
-    }
 }
